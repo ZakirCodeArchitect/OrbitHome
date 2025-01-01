@@ -1,7 +1,6 @@
 # OrbitHome
 
 **OrbitHome** is a cutting-edge House Management Application designed to streamline everyday household operations, manage finances, and enhance family collaboration. Powered by AI-driven insights and seamless bank integrations, OrbitHome offers a comprehensive platform for managing your home efficiently and effectively.
-
 ---
 
 ## 🚀 Features
@@ -135,10 +134,5 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or support, feel free to reach out:
 - **Email**: [webdeveloper.zakir152@gmail.com](mailto:webdeveloper.zakir152@gmail.com)
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-
----
-
-## 🌟 Acknowledgments
-Special thanks to all contributors and the open-source community for making this project possible!
 
 ---
